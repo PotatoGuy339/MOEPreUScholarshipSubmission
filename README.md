@@ -21,4 +21,5 @@ A collection of past materials for submission to the DSTA scholarship.
    
    This project holds a special place in my heart due to the effort I put into it.
    
-### 3. 
+### 3. SSEF Project Materials
+   
