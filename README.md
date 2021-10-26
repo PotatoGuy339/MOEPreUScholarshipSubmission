@@ -13,4 +13,12 @@ A collection of past materials for submission to the DSTA scholarship.
   
   I hope to work more on this and finish it in the future.
 
-### 2. 
+### 2. Physics Performance Task <br>
+   This Physics Performance Task submission is one that took up a large portion of my heart and soul. Though the requirements of the task only required that we design a few sailboats and test their speed by measuring the time it took to travel a set distance, one complication that I struggled with was that the angle of the wind with respect to the boat's intended direction of travel was not specified. This was especially vexxing, especially for me, as I had wanted to investigate the optimal sail angles, which would be entirely contingent on the direction of aforementioned headwind. As such, I was forced to develop "Indirect Testing Methods", such as a home-built wind tunnel and a device that dragged the boat through water in order to get quantitative data for this project. Additionally, instead of a singular solution to the question "what is the optimal sail angle?", my component presented a function/program as the solution, which would give the optimal angle for any given wind angle. 
+   Within this folder is:
+   - Oral Presentation
+   - Final Report
+   
+   This project holds a special place in my heart due to the effort I put into it.
+   
+### 3. 
