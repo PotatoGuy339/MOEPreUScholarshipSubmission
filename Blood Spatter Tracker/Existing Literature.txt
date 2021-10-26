@@ -1,0 +1,17 @@
+https://doi.org/10.1080/00450618.2019.1569142
+^ Blood on Fabric
+
+https://www.sciencedirect.com/science/article/abs/pii/S0379073815001243?via%3Dihub
+^ HemoVision
+
+https://doi.org/10.1016/j.jofri.2014.09.004
+^ Calculation of bloodstain impact angles using an Active Bloodstain Shape Model (Better bloodstain detection)
+
+https://forident.com/wp-content/uploads/2014/03/Further-Validation-of-the-BackTrack%C2%99-Computer-Program-for-Bloodstain-Pattern-Analysis-%C2%96%E2%80%93-Precision-and-Accuracy-IABPA-News.pdf
+^ BackTrack testing
+
+https://forident.com/wp-content/uploads/2021/04/FORident-Software-Technical-Paper-HemoSpat-Validation.pdf
+^ HemoSpat testing
+
+https://www.iafsm.org/Resources/webinar1/Harald_Krause_Presentation.pdf
+^ ELCOVision 10 
