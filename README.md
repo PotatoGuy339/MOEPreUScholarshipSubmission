@@ -24,5 +24,5 @@ A collection of past materials for submission to the DSTA scholarship.
 ### 3. SSEF Project Materials
    Contains presentation, 1 min elevator pitch, and report
    
-### 4. DSTA Project Materials
-   Contains report su
+### 4. DSTA UAV Project 
+   Progress report from a project I did with DSTA recently
