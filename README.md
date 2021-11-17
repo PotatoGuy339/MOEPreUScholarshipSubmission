@@ -1,5 +1,5 @@
-# DSTAScholarshipSubmission
-A collection of past materials for submission to the DSTA scholarship. 
+# MOEPReUScholarshipSubmission
+A collection of past materials for submission to the MOE Pre-University scholarship. 
 
 ## Contents 
 ### 1. Blood Spatter Tracker <br>
